@@ -4,12 +4,24 @@ Projeto Pokemon -  evento "Do Zero ao programador Contratado" DevDobro
 </div>
 
 <div align="center">
-  <img height="300" width="600" src="https://media.tenor.com/kYWeox8OKvAAAAAC/pokemon-squirtle.gif"  />
+  <img height="400"  src="https://media.tenor.com/kYWeox8OKvAAAAAC/pokemon-squirtle.gif"  />
+</div>
+<br>
+<div align="center">
+  <img height="500"  src="https://github.com/SergioFCarvalho/pokemonList/blob/main/src/imagens/imagem-projeto1.png?raw=true"  />
 </div>
 
 <div align="center">
-  <img height="700"  src="https://github.com/SergioFCarvalho/pokemonList/blob/main/src/imagens/imagem-projeto1.png?raw=true"  />
+  <img height="500" src="https://github.com/SergioFCarvalho/pokemonList/blob/main/src/imagens/imagem-projeto1.2.png?raw=true"  />
 </div>
+<div align="center">
+  <img height="500" src="https://github.com/SergioFCarvalho/pokemonList/blob/main/src/imagens/imagem-projeto2.png?raw=true"  />
+</div>
+
+<div align="center">
+  <img height="500" src="https://github.com/SergioFCarvalho/pokemonList/blob/main/src/imagens/imagem-projeto2.2.png?raw=true"  />
+</div>
+
 
 ###
 
