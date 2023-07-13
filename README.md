@@ -7,6 +7,13 @@ Projeto Pokemon -  evento "Do Zero ao programador Contratado" DevDobro
   <img height="300" width="600" src="https://media.tenor.com/kYWeox8OKvAAAAAC/pokemon-squirtle.gif"  />
 </div>
 
+<div align="center">
+  <img height="700"  src="https://github.com/SergioFCarvalho/pokemonList/blob/main/src/imagens/imagem-projeto1.png?raw=true"  />
+</div>
+
+###
+
+
 <h2 align="left">Tecnologias</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
